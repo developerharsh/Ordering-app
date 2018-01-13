@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">जस्ट जावा</string>
+    <string name="toppings">टॉपिंग</string>
+    <string name="symbol">₹</string>
+    <string name="quantity">मात्रा</string>
+    <string name="thank_you">धन्यवाद</string>
+    <string name="price">मूल्य</string>
+    <string name="order_summary_whippedcream">कोसी मलाई</string>
+    <string name="order_summary_price">मूल्य</string>
+    <string name="order_summary_name">नाम</string>
+    <string name="name">नाम</string>
+    <string name="order_summary_Quantity">मात्रा</string>
+    <string name="chocolate">चॉकलेट</string>
+    <string name="order">आर्डर</string>
+    <string name="Whipped_Cream">कोसी मलाई</string>
+    <string name="email_subject">जस्ट जावा आर्डर फॉर</string>
+    <string name="order_summarywhippedcream">कोसी मलाई ? <xliff:g id="addWhippedCream" example="true">%b</xliff:g></string>
+    <string name="order_summaryprice">मूल्य : ₹<xliff:g id="price" example="10">%d</xliff:g></string>
+    <string name="order_summaryname">नाम : <xliff:g id="Name" example="Harsh">%s</xliff:g></string>
+    <string name="order_summaryChocolate">चॉकलेट ? <xliff:g id="addChocolate" example="true">%b</xliff:g></string>
+    <string name="order_summaryQuantity">मात्रा : ₹<xliff:g id="quantity" example="2">%d</xliff:g></string>
+</resources>
